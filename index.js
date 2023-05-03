@@ -26,19 +26,22 @@ async function scrapeItems(
   scrollPosition = 10000, // The position to scroll to before stopping (default: 10000)
 ) {
   let items = []; // Initialize an empty array to hold the scraped data
+  let itemCountScraped = 0; // Initialize a counter for the number of items scraped
   try {
     let currentScrollPosition = 0;
     // Scroll the page until either the desired number of items have been scraped or the end of the page has been reached
-    while (currentScrollPosition < scrollPosition || items.length < itemCount) {
+    while (currentScrollPosition < scrollPosition && itemCountScraped < itemCount) {
       await page.evaluate(`window.scrollBy(0, 5000)`); // Scroll down by 2000 pixels
       await page.waitForTimeout(scrollDelay); // Wait for the specified delay
       await page.evaluate(`window.scrollBy(0, -2500)`); // Scroll up by 1000 pixels
       await page.waitForTimeout(scrollDelay); // Wait for the specified delay
       // Get the current scroll position and check if the end of the page has been reached
       currentScrollPosition = await page.evaluate('window.scrollY + window.innerHeight');
-      if (currentScrollPosition >= scrollPosition) {
-        // If the end of the page has been reached, extract the data and add it to the array
+      // Extract the data if the desired number of items have not been scraped yet
+      if (itemCountScraped < itemCount) {
         items = await page.evaluate(extractItems);
+        itemCountScraped = items.length;
+        console.log(`Scraped ${itemCountScraped} items so far`);
       }
     }
   } catch (e) {
@@ -54,7 +57,7 @@ async function scrapeItems(
   // Launch a Puppeteer browser instance
   const browser = await puppeteer.launch({
     executablePath: '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome', // Path to the Chrome executable
-    headless: false, // Whether to run the browser in headless mode (false = non-headless, true = headless)
+    headless: 'new', // Whether to run the browser in headless mode (false = non-headless, true = headless)
   });
   // Open a new page in the browser
   const page = await browser.newPage();
