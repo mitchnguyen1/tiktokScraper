@@ -20,9 +20,10 @@ function extractItems() {
 // Define function to scrape TikTok video data
 async function scrapeItems(
   page, // A reference to the Puppeteer page object
-  extractItems, // A reference to the extractItems() function
-  itemCount, // The number of TikTok videos to scrape
-  scrollDelay = 300, // The delay in milliseconds between page scrolls (default: 800)
+  extractItems,// A reference to the extractItems() function
+  itemCount,// The number of TikTok videos to scrape
+  maxDivItemContainerCount = 150, // Set the maximum number of .tiktok-x6y88p-DivItemContainerV2 elements 
+  scrollDelay = 3000,
 ) {
   let items = [];
   try {
@@ -54,7 +55,7 @@ async function scrapeItems(
   // Launch a Puppeteer browser instance
   const browser = await puppeteer.launch({
     executablePath: '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome', // Path to the Chrome executable
-    headless: 'new' // Whether to run the browser in headless mode (false = non-headless, true = headless)
+    headless: 'new', // Whether to run the browser in headless mode (false = non-headless, true = headless)
   });
   // Open a new page in the browser
   const page = await browser.newPage();
