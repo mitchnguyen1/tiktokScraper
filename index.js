@@ -17,13 +17,12 @@ function extractItems() {
   return items;
 }
 
-// Define function to scrape TikTok video data
 async function scrapeItems(
   page, // A reference to the Puppeteer page object
   extractItems, // A reference to the extractItems() function
   itemCount, // The number of TikTok videos to scrape
-  scrollDelay = 800, // The delay in milliseconds between page scrolls (default: 800)
-  scrollPosition = 10000, // The position to scroll to before stopping (default: 10000)
+  scrollDelay = 300, // The delay in milliseconds between page scrolls (default: 800)
+  scrollPosition = 70000, // The position to scroll to before stopping (default: 10000)
 ) {
   let items = []; // Initialize an empty array to hold the scraped data
   let itemCountScraped = 0; // Initialize a counter for the number of items scraped
@@ -31,9 +30,11 @@ async function scrapeItems(
     let currentScrollPosition = 0;
     // Scroll the page until either the desired number of items have been scraped or the end of the page has been reached
     while (currentScrollPosition < scrollPosition && itemCountScraped < itemCount) {
-      await page.evaluate(`window.scrollBy(0, 5000)`); // Scroll down by 2000 pixels
+      await page.evaluate(`window.scrollBy(0, 7000)`); // Scroll down by 2000 pixels
       await page.waitForTimeout(scrollDelay); // Wait for the specified delay
-      await page.evaluate(`window.scrollBy(0, -2500)`); // Scroll up by 1000 pixels
+      await page.evaluate(`window.scrollBy(0, -3700)`); // Scroll up by 1000 pixels
+      await page.waitForTimeout(scrollDelay); // Wait for the specified delay
+      await page.evaluate(`window.scrollBy(0, 7000)`); // Scroll down by 2000 pixels
       await page.waitForTimeout(scrollDelay); // Wait for the specified delay
       // Get the current scroll position and check if the end of the page has been reached
       currentScrollPosition = await page.evaluate('window.scrollY + window.innerHeight');
@@ -52,6 +53,7 @@ async function scrapeItems(
   return items;
 }
 
+
 // Main function that runs the scraping script
 (async () => {
   // Launch a Puppeteer browser instance
@@ -67,7 +69,7 @@ async function scrapeItems(
   await page.goto('https://www.tiktok.com/@dior', { waitUntil: 'networkidle2', timeout: 0 });
 
   // Wait for the video item containers to load on the page
-  await page.waitForSelector('.tiktok-x6y88p-DivItemContainerV2', { timeout: 60000 });
+  await page.waitForSelector('.tiktok-x6y88p-DivItemContainerV2', { timeout: 10000 });
   
   // Scrape the desired number of TikTok video data from the page
   const items = await scrapeItems(page, extractItems, 150);
