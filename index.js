@@ -17,29 +17,33 @@ function extractItems() {
   return items;
 }
 
-// Define function to scrape TikTok video data
 async function scrapeItems(
   page, // A reference to the Puppeteer page object
-  extractItems,// A reference to the extractItems() function
-  itemCount,// The number of TikTok videos to scrape
-  maxDivItemContainerCount = 150, // Set the maximum number of .tiktok-x6y88p-DivItemContainerV2 elements 
-  scrollDelay = 3000,
+
+  extractItems, // A reference to the extractItems() function
+  itemCount, // The number of TikTok videos to scrape
+  scrollDelay = 300, // The delay in milliseconds between page scrolls (default: 800)
+  scrollPosition = 70000, // The position to scroll to before stopping (default: 10000)
 ) {
-  let items = [];
+  let items = []; // Initialize an empty array to hold the scraped data
+  let itemCountScraped = 0; // Initialize a counter for the number of items scraped
   try {
-    let currentDivItemContainerCount = 0;
-    while (currentDivItemContainerCount < maxDivItemContainerCount || items.length < itemCount) {
-      await page.evaluate(`window.scrollBy(0, 2500)`); // Scroll down by 2500 pixels
+    let currentScrollPosition = 0;
+    // Scroll the page until either the desired number of items have been scraped or the end of the page has been reached
+    while (currentScrollPosition < scrollPosition && itemCountScraped < itemCount) {
+      await page.evaluate(`window.scrollBy(0, 7000)`); // Scroll down by 2000 pixels
       await page.waitForTimeout(scrollDelay); // Wait for the specified delay
-      await page.evaluate(`window.scrollBy(0, 2500)`); // Scroll down by another 2500 pixels
+      await page.evaluate(`window.scrollBy(0, -3700)`); // Scroll up by 1000 pixels
       await page.waitForTimeout(scrollDelay); // Wait for the specified delay
-      await page.evaluate(`window.scrollBy(0, -2500)`); // Scroll up by 2500 pixels
+      await page.evaluate(`window.scrollBy(0, 7000)`); // Scroll down by 2000 pixels
       await page.waitForTimeout(scrollDelay); // Wait for the specified delay
-      currentDivItemContainerCount = await page.$$eval('.tiktok-x6y88p-DivItemContainerV2', (divs) => divs.length);
-      console.log(`Current number of elements: ${currentDivItemContainerCount}`);
-      if (currentDivItemContainerCount >= maxDivItemContainerCount) {
-        // If the maximum number of .tiktok-x6y88p-DivItemContainerV2 elements have been loaded, exit the loop
-        break;
+      // Get the current scroll position and check if the end of the page has been reached
+      currentScrollPosition = await page.evaluate('window.scrollY + window.innerHeight');
+      // Extract the data if the desired number of items have not been scraped yet
+      if (itemCountScraped < itemCount) {
+        items = await page.evaluate(extractItems);
+        itemCountScraped = items.length;
+        console.log(`Scraped ${itemCountScraped} items so far`);
       }
     }
     // Extract the data after the loop exits, regardless of whether the maximum number of .tiktok-x6y88p-DivItemContainerV2 elements have been loaded
@@ -47,7 +51,6 @@ async function scrapeItems(
   } catch (e) {}
   return items;
 }
-
 
 
 // Main function that runs the scraping script
@@ -65,7 +68,10 @@ async function scrapeItems(
   await page.goto('https://www.tiktok.com/@dior', { waitUntil: 'networkidle2', timeout: 0 });
 
   // Wait for the video item containers to load on the page
-  await page.waitForSelector('.tiktok-x6y88p-DivItemContainerV2', { timeout: 0 });
+
+  await page.waitForSelector('.tiktok-x6y88p-DivItemContainerV2', { timeout: 10000 });
+
+
   
   // Scrape the desired number of TikTok video data from the page
   const items = await scrapeItems(page, extractItems, 150);
@@ -75,7 +81,6 @@ async function scrapeItems(
   
   // Close the Puppeteer browser instance
   await browser.close();
+
   })();
 
-  
-  
