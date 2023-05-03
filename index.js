@@ -19,6 +19,7 @@ function extractItems() {
 
 async function scrapeItems(
   page, // A reference to the Puppeteer page object
+
   extractItems, // A reference to the extractItems() function
   itemCount, // The number of TikTok videos to scrape
   scrollDelay = 300, // The delay in milliseconds between page scrolls (default: 800)
@@ -45,11 +46,9 @@ async function scrapeItems(
         console.log(`Scraped ${itemCountScraped} items so far`);
       }
     }
-  } catch (e) {
-    // Catch any errors that occur during scraping
-    console.error(e);
-  }
-  // Return the array of scraped data
+    // Extract the data after the loop exits, regardless of whether the maximum number of .tiktok-x6y88p-DivItemContainerV2 elements have been loaded
+    items = await page.evaluate(extractItems);
+  } catch (e) {}
   return items;
 }
 
@@ -69,7 +68,10 @@ async function scrapeItems(
   await page.goto('https://www.tiktok.com/@dior', { waitUntil: 'networkidle2', timeout: 0 });
 
   // Wait for the video item containers to load on the page
+
   await page.waitForSelector('.tiktok-x6y88p-DivItemContainerV2', { timeout: 10000 });
+
+
   
   // Scrape the desired number of TikTok video data from the page
   const items = await scrapeItems(page, extractItems, 150);
@@ -79,4 +81,6 @@ async function scrapeItems(
   
   // Close the Puppeteer browser instance
   await browser.close();
+
   })();
+

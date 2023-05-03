@@ -1,0 +1,602 @@
+[
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/822732c704b848f3aa4d2abb528c1312_1683046159~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=07S8JKS8lkjSpWi6y%2Bo6QH907Zs%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7228628189424127238"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/22a338ad88624533b052854106fcf4bb_1683046062~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=w8tFV7akE1XrfzfSOZIp85Uzfew%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7228627772036369670"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-p-0037-aiso/ce35f5b01ea540a8a58248bf33744de3_1683045853~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=z%2BabxLwg7fy9Ys63EMReGkPHTCs%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7228626841207164187"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-p-0037-aiso/413a6443101d4d00b5bfc4e50f7ba5d7_1683035916~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=BbzXaTg3MklfVyWfoJo4zP0yPTo%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7228584160921767195"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-p-0037-aiso/owNREEcm4GgZN3mLGkBwIuL7QAfkDkAfSGzPSh~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=t7TlKOxwn10hDSA8rX%2FaL1C%2BnVY%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7227132005849271578"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-p-0037-aiso/3458838c500247e1a462feef10d02880_1682592237~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=elGTE6jMTq9qn53xJJNiGI5riRI%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7226678588509097243"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-p-0037-aiso/c51567fcfaaf4d77a2926d319ba06610_1682528588~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=ZgqoYsZ3ZPGaus2FDME5TvVknQI%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7226405223781141787"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-p-0037-aiso/da0c7c8532874318bc1ddd8e5eb152f5_1682341820~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=VUKnsu2taPMpOTZ27RjJX%2FJbzyE%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7225603062050606363"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-p-0037-aiso/7b8530e8d4ac4f5caa962e800a7b15b6_1682184614~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=LRODzr2SaHjz9D2hxCubIvLHq%2BQ%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7224927875567226138"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-p-0037-aiso/f6c442c1842a4977af8b5a7b05529fd7_1682091638~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=vhB3KEF%2BCB105GYtC75N%2BLEYvTg%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7224528536579640603"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-p-0037-aiso/f4a69af8f7d14a57b23f0d577a3dc1fe_1681993188~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=50%2FSw7ujx%2Fm49gxpgvu4%2FW6b2Qs%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7224105705479867675"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-p-0037-aiso/0760252563bc4b46b74adf3f49316d49_1681922269~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=InQtOpiLEU0eGhDxgHoT6TbM8Iw%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7223801097092140314"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-p-0037-aiso/fc8adc1f1a8f427a8899bdb5426649fe_1681842897~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=2MjukVKy9gEtH5cZCguEcVkM7s8%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7223460169764703515"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-p-0037-aiso/6efad2a97b52451bafa7508d1f80242f_1681826074~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=vEtd660qUAyzuyDpSs93m4y08as%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7223387929249352986"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/42c981573a6e45f493a73d182b6e723e_1681661325~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=LRQN7%2FoMyoQt6ZVQqMBnVvY%2BGFo%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7222680371320720645"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/21fea0eaf2ec4bbcaea2261af47bc54a_1681396392~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=L0V6Spb%2B%2BSCLDgotDoOrDmorQio%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7221542490346851590"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/a40c146e11544c4f978a42a18af84c67_1681392945~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=wi84MFDrtic11s%2BC20oFXdeFYE4%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7221527690874981637"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/0a5b48013be047b9938ae42624770c89_1680980981~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=QK3iAYcCXXDMFmOCNhPPXBtBxVM%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7219758321979411718"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/8bba7baef73641c88f440e564d5b1e78_1680884160~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=64EuSeWcmR%2F8gf8EBWOPm%2FptrtQ%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7219342468611919110"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/729ea5c65973418699f35721e8e9e71e_1680878759~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=R72nh545rXwodTXUKSZHnaqPO70%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7219319270457609477"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/3eb949767e154ed596df7e89f93c6a0c_1680777194~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=7tnYsV2EhfpX3qQaM7UkxAhjAu8%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7218883053630868741"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/o4FGPHAAhTQDJHRAAE08Hk5vWuYefF2n5zAeve~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=B5EKIRW3Jidcv2BjN8vBmzL3vNc%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7218882068762217733"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/f7e4555dc6e744b48c9ebcf6a1923b3b_1680764402~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=Xc2H%2Bu9ZZtLrjLI51cMrE9fnMKI%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7218674396284620037"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/d4271d8b1f3f440aac343f8cbf9a0b86_1680623819~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=UNdh8ygM4vixlXTqxo%2FKkDy6jxg%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7218224298434022662"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/c87f6da57a3c4658b02d9aabbc293996_1680285409~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=UmwzIOy9vs4lBZYyvWpP%2F7%2F8A%2Fw%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7216770859850140934"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/ccee1f0199bd455a9bed3c10197fcb8a_1679662803~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=jbxSPTDRKbgJW4dZyFy%2BsI7elEw%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7213681680551267590"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/659360ce472e4549884e9e9a8df400f5_1679562273~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=e6WJj4x7uGFdXDq%2BptEFW6QhGjM%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7213665002668985606"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/93e6245937c64fc4a258f20028cddf2c_1679419476~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=e1CNORYbL6jPVpsACujoq61b8Tc%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7213051698397383941"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/566d9700bb384e5ea14778054c352746_1679331216~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=GsFVG4c2y1nTZE4KBIeEUa5O21w%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7212672632318201094"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/aec31d7890874a0d854beb69c836dcdd_1679068882~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=uMSFbUurNYVjd5a73Q7GWj5Dwsg%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7211545918263282950"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/61051c921d684b6b8b72bf2fef740ef3_1678956217~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=eYiTnhDqRrrn%2Fp6NVTKCYsvELBU%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7211061987227241733"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/f5380c7c75fd4df38faa60aacf616b1f_1678888804~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=fCFTbvMwT5l%2FrFsPsUM%2FVoqcDLA%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7208490005633846533"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/owSsBbeonBIk8wrEdQDzMvEuEBJIANVQevRD7A~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=plnBeOcmG01jzrTWJs4LtY9K%2FnI%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7210490504805584133"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/5b4127f2aede4853af56ec1232f85232_1678723284~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=cjbhSd6p%2BSN%2F4uDqcEDJhS9HJVc%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7210061577263844614"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/5268fc088ea040c7b9522d8d4bbb8133_1678536002~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=CdhUT3UTX%2B5UH9qpdRCze2lH9ik%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7208589654260485382"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/8b9a5df49f8246ffbef635bdce66ab64_1678449752~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=3KAxwX2VmEDQAhTLrdmpHOHffvo%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7208886767531904261"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/e3306120459b4717a0822aa23bdb166e_1678363203~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=da501wXk03w2iMLEmiwF7CGfvoQ%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7208473125762108677"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/7c93a93dbba446a4ab8ee7b70ffc5bc8_1678298496~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=9nWaQLT8bao%2B57NKh1H4w6iHeBM%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7208237128713637126"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/2cd03e6f183347f8b7d67a4bed04dac3_1677863515~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=6vehFPpP1eUxy9iMRpShe3ritFY%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7206368898550156549"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/de96ed8409104b5fbf133a246b968c7f_1677673276~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=ZrNcP0D%2F0cRM5x4vDzGkRStn%2BuY%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7205551826949672198"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/9930e53ed1aa40abbaaa33ed634043a5_1677172953~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=HhnO8QLjtCZ5%2Bl2MMv3etEUn%2F%2Bw%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7203402959911324934"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/a93a1ab41b464849b67e44a01c29ade7_1676549219~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=%2FnnuomvhciaJwEjreaCON0gKtrI%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7200724023926394118"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/d929c2d12d2f4dabb90e63e3ed9987bb_1676279370~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=N7Jbicni%2BlbaQ2fDz3dO%2FN6be3Y%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7199565026670169350"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/1f5bb009d24d4345943ffddde2d4f76a_1676028893~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=QVGvXzlahrAsELsIcHKTxs5pTaM%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7198489248750636293"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/14a7f57157194c7aae98bb27817d5186_1675695538~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=dOm%2BUHoXO5SkdKdhtLTDh7YVhpE%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7197057479988268294"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/774d1c4484e8468a9b92cc7fa32be947_1675243712~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=DolFgXZhUZyV8xb97o9NGJfHLyw%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7195116923011566854"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/03b43d80078d4102aa484afeb155f9aa_1675187954~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=63ZJtsx6hbd8iZzapFH3NEq3xYE%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7194877459085413638"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/b8c741a83d3946598d022b9a075a6024_1675159203~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=g2%2BdlmewA9eEXoixrqyB1B9BU0M%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7194749079782690054"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/09a9c76973fd4316b3317a4461a3d336_1675076571~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=Eww%2FhaGK%2FN6jBSEKX2WLGFXMSHQ%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7194399047338200325"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/365b83d33dee45c3b1f7fe024b31a9ec_1675072475~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=Guf0w77bbHSvAja84ME4oLt8os0%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7194381453508087046"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/ed2de799f9c14eca80259cdf84a86fe8_1674569486~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=g4sOTPdIjSSTkQO%2FgwOglEbwIto%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7192221147621084422"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/425fe4dbcd524202bca6466f8e6a6998_1674498567~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=Dr%2FSaz4Cm1DvXdoh8n%2BV731uQ%2F0%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7191916564784975109"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/5fc5e8800a66489d987e2279e5e78388_1674465897~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=Z0%2FbWfkEen9C9paHMghLUXgpSpw%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7191776218256002310"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/1a7da021891c4eb0b8b596eecdf86c67_1674412245~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=YH53cLUDTvT8ZmPzzWikc%2Brj6L0%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7191545814655732997"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/06d48d8ac2b743fa83d6db8ebfaf54f0_1674305842~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=48ucH25x6g2xx8pufttMi6nP180%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7191088797726018821"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/72de7fcc65a34e2489e15eb9cc734ac4_1674222156~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=UVZpujRmrbQkBchE7NgKfaADcVY%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7190729379171945733"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/a753775060954b68a5f9c2911f88fcc1_1674048492~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=d2hsQMmoGNwSNbliJerHRwXLjjk%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7189983475515067653"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/f372497b617d45cca67f0a80a936fafc_1673968081~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=OgieEepICNe9lHZtdW5SC%2BEBpRI%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7189638138979945733"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/115fc84a95b74ea787def42e948d632c_1673903252~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=0yaaDVIFsosLjCe6lkTcej0B0D0%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7189359699354062085"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/2d457ca73750434294204c5a8cb66269_1673878846~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=DsRWcCfUSrOcxE4zTtfw8YX5O5E%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7189254868018760966"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/3afbb0f98a6a4c5387c952309ef7f02f_1673814325~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=ewNTjfGGIn%2FuucbEp0Lmo9Fatb0%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7188977761090948357"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/878dc14d11e649cc927d2c3257ca27d2_1673600435~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=6yfbBh7Tl2gk9YrV11Dy6RhCrgo%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7188059103241997574"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/129c4a8c53b942b0adb7b8703bf72bac_1673524142~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=DiHHy4jd5TI%2BHrBf5KpcwCDcdmU%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7187731425674693894"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/05b4a4e03d6b49789286cdf67a9b81bd_1673445601~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=rk64XnezlP5AoJC1HB3Ptlwv3rM%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7187324223491280134"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/a9e6eb889c904fc7aabe2d9bbdc0dec4_1673409395~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=J6qfKpBJomSuwgsQlv45%2F40MZvU%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7187238550432222470"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/29d06b89f2144b9cb8d46ecf289c8d14_1673351482~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=476Mgkm04t9QNtHRBZ69sZ02bqg%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7186989844030131462"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/fb3a2ad34d164094bf1dd3db61514a1b_1673270485~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=k%2FiYZM7RbeXhmVgTsN%2FGOw1j2yc%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7186641965746883846"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/6e4d6d7dab234dd49d190bc0fb7aa3f6_1673176219~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=CTJJ%2Bqkf7yFZeKjllavtSfItFro%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7186237064474627333"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/a0b17e8d9b21415680dcbe0bacb8b8b8_1673100003~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=s%2Fc9EAS3YQ5otLmtjpiV8OP1HE4%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7185607248234712325"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/e40844cdfb094b7b972c53e8e3e6e512_1673026431~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=VHIKHz7U87eyCAGE7A4ESokNZ0E%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7185593776834891013"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/7aa661b2cb2449be93b9bfbbe9a525c1_1672942139~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=6xlq6r1I%2BZDxrIsWCA3xqhWXuw0%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7185231761893494022"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/d62a9af251674108842544c2b6de6baf_1672754708~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=fe9IOlAeOf5dh6TA1eVKtIOfSyA%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7184426731166616838"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/241b7b2ae9304acb805266ef5176a937_1672679695~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=U6xOFq56VVR3pI1Et0w0eXRYDZk%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7184104541254683909"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/37a524070a5a48fba4b22f85859e6bbf_1671724260~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=EYJwC0UYv6tOL7Jq8IMg1JwBKlw%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7180000994611318021"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/973c54f9bc6f4aafbe8784ae406df78d_1671621775~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=Ak1zZhTfzJm3jeEP30elo32l8ho%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7179560814729383173"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/df5c6eaf3d11430e9436375aeb1d3683_1671368201~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=3HMptg6LynFMgLvLIadoaoxc0KI%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7178471737850400006"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/2141b9dee5a44edb90e26fdb453860e3_1671295028~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=HS2s3HkWZCuhnPKb1zC8YDZhczQ%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7178157465589075206"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/7ddeb78b094841279c78f49c8cf8f032_1671196513~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=Kz0aJAJsHudhHHnsiJSVkaGKWv4%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7177734345472429318"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/2b7f48eafb9343a284a754bf0f9e0488_1671128509~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=f%2BIcQFDfjbAZZh2fsPOCGNy2OOk%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7177442261079231750"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/3c6fc404fb964ff4b22f58e51a12b202_1671036988~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=vMqAe1J28Hc2SEJ16FFjjNeDAyw%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7177049190000790790"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/6b321681780b409895e80f04ed61e878_1670843975~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=c7AT8vsTpxFDqJrPRPf6FCseI3A%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7176220205507415302"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/804cc493b53642c7bd3181520e02ec13_1670843223~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=3m666FV%2BSEYiFtHX04eskfh5Z2Q%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7176216965516676357"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/56404ff128d54bc6bccf1e4588329395_1670247179~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=%2FEkMh0edDokIxKm7g0wbGVl10rg%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7173656945621093638"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/c657f8da5c5741e1936365b380fbc93e_1669657961~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=8ZSJdci6FuxtUSCGBQ9CtYTRrvU%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7171126322557619461"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/509cc5729d1646fea61336b7c5390faf_1669402620~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=do%2Bsfvxqnc%2F9MGeheOtysJ37Eik%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7170029635873295621"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/640cebd13da5465e8cd58cb68084c7da_1669310976~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=pjbt8PD3S32JAkY4n08Clj8t85M%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7169636021666188550"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/89f9b416a5e0460890cbeff16a41befc_1669224733~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=NKoaak9pDYUk%2F3bLdBZbBuTmPnk%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7169265617957080325"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/6bbd67c73b5c491c92371549828109ce_1668862802~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=ZPaD6xjAHKk4G69106atV7Sy14o%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7167417368098966789"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/ebd48ff30db140eca83410b640676381_1668762907~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=h6HQ0N64bp0A1gRJtY3vJ%2FmdCu8%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7167282043926220037"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/67488ec95ad8460fbf6f282977d83141_1668730437~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=s0xxHKMRT9Jmr0SV05YqTVN0Idw%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7167142606240058630"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-p-0037-aiso/7269d06a2e47413ebe7c84eb14b7b927_1668614884~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=ykVjVsFa6HU11dSrO5G9EwSWgUs%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7166646331430210843"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/64366a41528d47648da8005df84a5ecb_1668447956~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=NQtzSJFBFgXdvmwAmyjRnduNYt4%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7165929377140706565"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/726fcba25a39428797aeb56348977107_1667861151~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=V%2BY90TY5qPYuEZ%2FwyvzVziBEWHk%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7163409057833913605"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/a7c2f9f1dc174db8bede0f538836ef7b_1667647031~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=S18W7OE7%2BFPXHppLNg5eiDpgT4E%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7162489411286928645"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/933510b92cc148588d55d5c90fbd4a3b_1667560834~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=Igr7yJqiDDpMqx6ftjG6OsvtGas%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7162119198687235333"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/40afa914a85c484f824d61e855b80171_1667386939~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=spEUiUuyxbVUermFnYSxkIOLABU%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7161372310534900997"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/03a05b893a4b415bbb39d1d328748af5_1667379587~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=BeklwCSPjw9ZKPBDgnoQkFVcHjk%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7161340731850788102"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/6572bc8a84cc410ab0cff64101b37289_1666960021~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=D%2BN82fQJBlBHIy2StLSsRamMAQQ%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7159538750677110022"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/745d62e1ff8b48728948c4c114cc8e63_1666859757~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=vKeuwPRhoTqMe7zpq7sIrbVjcU4%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7159108081387916550"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/04d78a13b78841e4968f902be8ce7dce_1666780542~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=4HT0m4HbiPCiwLMjDaTMfU28Jfg%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7158767888189410565"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/ce204c560fd440be9b2fb820a6d8ae0c_1666704767~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=IJJZmE8P5q%2BSQEu0iU5wq32zDiU%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7158442430231055621"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/e3b00c75cbb94067b4b542c5911f8799_1666627223~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=u3V4R2B7eQ43r7%2Ftc7cxn0lh3Hs%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7158109398286470405"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/64bca106d8fa44cebfa8bc2cd71686d7~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=%2Fb95g45soHAch00Z0qQiRbLs0As%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7157769634572193030"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/3687402687574ffb86209f8958fb7018_1666285224~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=bdDcYD46UQ2t5cZAEZdJ13TON%2F4%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7156640524651252998"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/2a1d08d6483c4f8a9b72f9d71699efe9_1666185488~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=RwFodeDyS8rXjbivsSFm4PG%2FK4U%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7156212146924227845"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/1c8afb8c8ab8444ea340792d93b28e23_1666025051~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=LQxCsmcTDVP0V7eJjeCuJamLphg%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7155523084378721542"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/fde8e50f0ec844d591f7209316c5ff48_1665765607~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=3QRiliDFIHcXgwkpSXNMWjGboZE%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7154408775439502598"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/0cef6af69181467fbda9af0e3d172caa_1665417074~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=T5OzJGQiXI5z6DDSFyYTtsNDaWk%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7152911828132187398"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/6ea17f8d1b764f52ab900417a4cbcd6a_1665148538~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=qvi1iAtxdNbqGWpq9FLV85yIIxM%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7151758478258867461"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/d4a345b2def7471e8194c66522ee26a6~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=t8CDoJ7EmmkZ2QpolEBPav0RaGA%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7151019079602556165"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/bd18cec47d79498389587b34d8f98e68_1664816949~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=9FNBQBkz9d3ThzDQyBd94hJP36g%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7150334321109388549"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/843d55aa9c9b4a4da3670fe9f98303d8_1664795179~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=dNnAQAzIrxzDy63a3We1hiI03Tc%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7150240806442372358"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/7d0db9a4c9154ed3bf942f3620aeba68_1664708440~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=LnQ7kdilDa5BC%2BExZx8TWjlcygs%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7149868270986874118"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/ec3756cac0c04799b5c38841e197f829_1664560393~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=v7JuXUYgjqWEzUzoD0D6ZgoLbF0%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7149232424205978886"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/0b620d3df9ce4777a011f2e4db25af16_1664471735~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=hFl6%2Bqxd%2FGuGZnm1r4F4L7ZEZ%2BI%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7148851642773851397"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/53790857396f48f89562c2d70303139b_1664380569~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=nI1w3GEPDLz%2B7zUgeSa9OSGSH9I%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7148460089488215301"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/c95e35c29e1349c392c0b57c924fbb08_1664017203~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=l4OkbiCcH88eylKdE%2Fgia0Kt5FA%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7146565246012886277"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/0d8e9c0e14384cfa8079e1688fa14bda_1663939048~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=SHDyXCumolFCeOWfXGKkvky1p1Y%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7146563763032886534"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/3c14e47bbee04b1f8e8766481d234fd6_1663779190~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=YdxOLd8pie6V7I9m6xhU5n9Ns%2BQ%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7145877172941556997"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/b9d6fd4c3d484f14a4e61a432d019af3_1663752427~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=VqRA%2FtA33%2F2kcZZIt9BYubjUh8U%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7145762195043863813"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/658e28f1bc744edcb18523a91622351b_1663441546~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=xBFlU1cANw8oilJqE5ETSm93VVI%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7144427011228830981"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/03d419aff99a4bf8be42e58663c7199a_1663402072~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=2MK%2FJW82dYiAGhVduF2G99cZfoY%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7144257452345707781"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/0d746f92833e44199b54c35f855d08ab_1663344790~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=QeWom1KWudb2dqFYeRHvQJVP6YU%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7144011453635316998"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/1b174d6757f6436b91af7daed361b96e_1663144310~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=P8VXygNLqU6ecEirOlMJ42uPp6g%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7143150362143313157"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/3f4e74e017df4593a9de2651debc6c2b_1662969561~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=hZ9SD04jbmSQ3lgVn6elhpG1MRw%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7142399794424712454"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/14a37fa5fcf44d0793f0de4c84a8cdd7_1662927998~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=ITVxZUvZyHJhWgZW2Y3hTA0uQFA%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7142221332854443269"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/964d9ed3baed45459712e1938b38a34b_1662724814~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=LDCgbzEnMVs1aIbDMSTjalgY%2B%2FY%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7137980270250134789"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/a5b6e2ee59c94290b38aa4e41da10e8f_1662465602~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=nv%2BjZcpIDk3hzxM7hlqi8HxmTPk%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7137202072541334790"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/07fd9a712918437ab5e62eea00819dec_1662365546~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=ch5bVpGdOTWz8sOdbANaDIaBncM%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7139805590879997189"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/b0dc97ca7eeb42c79a737c59eaf3df0b_1661851783~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=dlEZbDhaCtRiraTfe4ehm%2BnJbYU%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7137599022184893702"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/726b913ba2554ce0a776b003f6659a2b_1661774410~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=ld%2Fuu%2Fv3bBHhrBOoXSiCkDNST6U%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7137199245630639366"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/e50c36b837c94f50abc5eaee51048a01_1661528365~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=kgnj6E8glvtX8CfmgpdMdunMGjI%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7136209954737851653"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/66c90cfc5c91451f869c5629e74c3e48_1661444822~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=tNDh23PL0%2FRcFGfxcI20JmUltek%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7135851120408284422"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/7629246e76084d718ccd455f129f0212_1661423296~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=%2BaOqC4OLjXELsF%2BuetQQfinI%2F5E%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7135758574302579974"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/b97e1bd303b642a2b21e1ffffab922ce_1661342412~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=bK9Ezx%2FKS0wq1gQkWzfrYh7Ovos%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7135359993968119046"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/01e2ee7650db44c98d9922e8ec4e5239_1661267262~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=oAFyttpP%2F%2Fv9IVAliJm731rH2%2FU%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7135088518744870149"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/a4975560c3394fe1a2b6d9cbad6a31de_1661181699~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=vK1bZosMkdMl5DTjfLmAu9mN6vY%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7134721004974165253"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/9d1cbe6cff2c4753887ec5f38b26d61f_1660737606~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=X%2FtNm4bcN9lG6owGo%2Bq1ppLtpdM%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7129247376363097349"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/7207c1769c7547729bef9893f71a7fa2~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=kCWC2LGVdYxW7Jq4i%2FiFmrAZa%2Fc%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7128929147946142981"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/41808787b53b46cb89f755019804ad58_1659622173~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=GL%2FgcYZyC5t3gXGZDj%2Bvkr56WgE%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7128022932680396038"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/e93f8f87b1f849ce9aab5b7a9dfc519b_1659214801~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=m8zH6pTPrQVfLyD7V3oRhcTRMFw%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7125840651790372101"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/2624f2fb3fb744e68d08d34464205ea7_1659115200~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=gUVRqaDFnVRTHsFhRnesJnSjNIk%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7125845503660592390"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/3c42c5189c614a0f911a7ab8bdef9237_1658960819~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=iIhkwADhrjuca8SQysIfDBEntqE%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7125182412568546566"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/c559e7b2fe0b47ff9d50983a03a2e01e_1658674536~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=UsK6OZlBFH5X6YiaciDDdtKzFJo%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7123952866905050374"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/3ea489a34b2b45e48e030654fc6d4a7f_1658587536~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=X5AghsYrSY%2BR717AoiW%2F%2BUpMYqY%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7123579197972368646"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/bb61238f2f6e455f9ede2b39bf7fca59_1658504830~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=av1B1xaSHSx%2F8udHa9nBoNwgFLs%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7123223977392229638"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/f71381c5bce542bc8a05b03ad3815882_1658486919~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=BjqQU4RAExffaZ2EI9faKXC1%2BTo%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7123147045161995525"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/cf8e31df58804a21b125012e846f6bfb~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=FdeYEy3dhKHwlxKmHVQaxL5R70s%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7122385922640956678"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/d3ab04b253c041cf8172afddc0365218_1657890004~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=%2BbWQN0vrU%2BUacRdmMEVyaUh40Ms%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7119519912690748677"
+  },
+  {
+    "imageLink": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/de1479671e2e43a8bab02d28654170b6_1657803604~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1683172800&x-signature=%2BizLPdSt%2Fgn29HZQXBP7%2BOU7GRA%3D",
+    "videoLink": "https://www.tiktok.com/@dior/video/7119866079161093381"
+  }
+]
