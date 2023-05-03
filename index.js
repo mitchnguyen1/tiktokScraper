@@ -30,9 +30,9 @@ async function scrapeItems(
     let currentScrollPosition = 0;
     // Scroll the page until either the desired number of items have been scraped or the end of the page has been reached
     while (currentScrollPosition < scrollPosition || items.length < itemCount) {
-      await page.evaluate(`window.scrollBy(0, 2000)`); // Scroll down by 2000 pixels
+      await page.evaluate(`window.scrollBy(0, 5000)`); // Scroll down by 2000 pixels
       await page.waitForTimeout(scrollDelay); // Wait for the specified delay
-      await page.evaluate(`window.scrollBy(0, -1000)`); // Scroll up by 1000 pixels
+      await page.evaluate(`window.scrollBy(0, -2500)`); // Scroll up by 1000 pixels
       await page.waitForTimeout(scrollDelay); // Wait for the specified delay
       // Get the current scroll position and check if the end of the page has been reached
       currentScrollPosition = await page.evaluate('window.scrollY + window.innerHeight');
@@ -43,6 +43,7 @@ async function scrapeItems(
     }
   } catch (e) {
     // Catch any errors that occur during scraping
+    console.error(e);
   }
   // Return the array of scraped data
   return items;
@@ -53,25 +54,24 @@ async function scrapeItems(
   // Launch a Puppeteer browser instance
   const browser = await puppeteer.launch({
     executablePath: '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome', // Path to the Chrome executable
-    headless: true, // Whether to run the browser in headless mode (false = non-headless, true = headless)
+    headless: false, // Whether to run the browser in headless mode (false = non-headless, true = headless)
   });
   // Open a new page in the browser
   const page = await browser.newPage();
   page.setViewport({ width: 1920, height: 1080 }); // Set the viewport size
 
   // Navigate to the TikTok user profile page
-  //EDIT LINK HERE 
-  await page.goto('https://www.tiktok.com/@dior', { waitUntil: 'networkidle0', timeout: 0 });
+  await page.goto('https://www.tiktok.com/@dior', { waitUntil: 'networkidle2', timeout: 0 });
 
   // Wait for the video item containers to load on the page
   await page.waitForSelector('.tiktok-x6y88p-DivItemContainerV2', { timeout: 60000 });
-
-// Scrape the desired number of TikTok post from the page, currently set to 150
-const items = await scrapeItems(page, extractItems, 150);
-
-// Write the scraped data to a JSON file
-fs.writeFileSync('./items.txt', JSON.stringify(items, null, 2));
-
-// Close the Puppeteer browser instance
-await browser.close();
-})();
+  
+  // Scrape the desired number of TikTok video data from the page
+  const items = await scrapeItems(page, extractItems, 150);
+  
+  // Write the scraped data to a JSON file
+  fs.writeFileSync('./items.txt', JSON.stringify(items, null, 2));
+  
+  // Close the Puppeteer browser instance
+  await browser.close();
+  })();
